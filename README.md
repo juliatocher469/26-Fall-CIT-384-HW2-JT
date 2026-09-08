@@ -1,1 +1,1 @@
-https://csun-orm.github.io/comp484-hw2/
+https://github.com/juliatocher469/26-Fall-CIT-384-HW2-JT.git
